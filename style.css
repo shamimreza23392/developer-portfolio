@@ -1,6 +1,33 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
+}
+span{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.hulf-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.hulf-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: aqua;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 7px;
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
