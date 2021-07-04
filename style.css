@@ -53,4 +53,18 @@ h2{
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 10px gray;
+    
+}
+#baby-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#Fill-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, red);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
