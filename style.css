@@ -5,7 +5,10 @@ body{
 h1{
     font-size: 50px;
 }
-span{
+h2{
+    font-size: 40px;
+}
+.orange-color{
     color: orange;
 }
 .flexible-container{
@@ -15,6 +18,7 @@ span{
 .hulf-width{
     width: 50%;
     padding-left: 5%;
+
 }
 .hulf-width img{
     width: 100%;
@@ -36,4 +40,17 @@ span{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    position: left;
+}
+.experiences-item{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
 }
